@@ -1,0 +1,27 @@
+body {
+    /* background-color: brown; */
+    text-align: center;
+}
+
+#game-intro {
+    width: ;
+}
+
+#game-wrapper {
+    /* background-color: azure; */
+    display: flex;
+    justify-content: center;
+}
+
+#game-screen {
+    display: none;
+}
+
+#game-outro {
+    display: none;
+}
+
+.character {
+    width: 350px;
+    height: auto;
+}
